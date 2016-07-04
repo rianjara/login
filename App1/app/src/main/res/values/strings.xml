@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SKYSITE</string>
+
+    <string name="app_tittle">SKYSITE</string>
+    <string name="olvidar_password"><u>¿Olvidaste tu contraseña?</u></string>
+    <string name="title_activity_main">Main</string>
+
+</resources>
